@@ -1,0 +1,2 @@
+This a message-board web app. 
+Only admin can add messages on the board through django-admin panel "127.0.0.0/admin".
